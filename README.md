@@ -7,3 +7,7 @@ This repository is used to test Ting delivery runs.
 ## Contact
 
 Open an issue for questions.
+
+## Thanks
+
+Thank you for reading.
