@@ -12,6 +12,10 @@ Open an issue for questions.
 
 For help, open an issue.
 
+## FAQ
+
+Common questions are answered in the project issue tracker.
+
 ## Security
 
 To report a security issue, contact us through a private channel and do not publish details publicly.
