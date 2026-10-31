@@ -31,3 +31,7 @@ No license has been chosen yet.
 ## Roadmap
 
 The roadmap lives in the project issue tracker.
+
+## Contributing
+
+Open a pull request to propose a change; contributions are discussed and reviewed there.
