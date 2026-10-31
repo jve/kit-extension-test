@@ -23,3 +23,7 @@ Thank you for reading.
 ## License
 
 No license has been chosen yet.
+
+## Roadmap
+
+The roadmap lives in the project issue tracker.
