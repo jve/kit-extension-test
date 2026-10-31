@@ -23,3 +23,7 @@ Thank you for reading.
 ## License
 
 No license has been chosen yet.
+
+## Contributing
+
+Open a pull request to propose a change; contributions are discussed and reviewed there.
