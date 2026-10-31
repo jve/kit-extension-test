@@ -11,3 +11,7 @@ Open an issue for questions.
 ## Thanks
 
 Thank you for reading.
+
+## License
+
+No license has been chosen yet.
