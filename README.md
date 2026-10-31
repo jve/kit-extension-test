@@ -20,6 +20,10 @@ To report a security issue, contact us through a private channel and do not publ
 
 Thank you for reading.
 
+## Credits
+
+Thanks to all contributors who help improve this project.
+
 ## License
 
 No license has been chosen yet.
