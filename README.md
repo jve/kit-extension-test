@@ -14,7 +14,7 @@ For help, open an issue.
 
 ## Security
 
-To report a security issue, please open an issue.
+To report a security issue, contact us through a private channel and do not publish details publicly.
 
 ## Thanks
 
