@@ -27,3 +27,7 @@ Thanks to all contributors who help improve this project.
 ## License
 
 No license has been chosen yet.
+
+## Roadmap
+
+The roadmap lives in the project issue tracker.
