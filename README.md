@@ -12,6 +12,10 @@ Open an issue for questions.
 
 For help, open an issue.
 
+## Security
+
+To report a security issue, please open an issue.
+
 ## Thanks
 
 Thank you for reading.
